@@ -1,5 +1,5 @@
 # jQuery-with-XSS
-jQuery with XSS
+jQuery with XSS, Testing and Secure Version
 
 ## Bug list:
 - [#9521](https://bugs.jquery.com/ticket/9521)
