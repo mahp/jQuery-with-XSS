@@ -6,6 +6,9 @@ jQuery with XSS, Testing and Secure Version
 - [#11290](https://bugs.jquery.com/ticket/11290)
 - [#11974](https://bugs.jquery.com/ticket/11974)
 
+## Test version:
+- [test](http://research.insecurelabs.org/jquery/test/)
+
 ## Safe version：
 - 1.12.0, 1.12.1
 - 2.2.0, 2.2.1
