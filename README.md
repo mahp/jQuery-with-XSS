@@ -2,8 +2,8 @@
 jQuery with XSS, Testing and Secure Version
 
 # jQuery versions with known weaknesses
-- Bug 9521 (CVE-2011-4969) - $("#<img src=x onerror=...>")
-- Bug 11290 (CVE-2012-6708) - $("element[attribute='<img src=x onerror=...>'")
+- Bug 9521 (CVE-2011-4969) - $("#`<img src=x onerror=...>`")
+- Bug 11290 (CVE-2012-6708) - $("element[attribute='`<img src=x onerror=...>`'")
 - issue 2432 (CVE-2015-9251) - 3rd party $.get() auto executes if content type is text/javascript
 - issue 11974 (CVE-2015-9251) - parseHTML executes inline scripts like event handlers
 - issue 4333 (CVE-2019-11358) - prototype pollution for $.extend()
